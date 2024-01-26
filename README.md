@@ -1,1 +1,2 @@
-"Hello! This is my first GitHub repository, so some things may be missing, I apologize for that. In this project, I created a ToDo app using Python-Flask on the back end and Bootstrap on the front end. Thanks!" 
+Hello! I apologize for any missing elements as this is my first GitHub repository. In this project, I created a ToDo app using Python-Flask for the back end and Bootstrap for the front end. Feel free to let me know about any deficiencies or additions through Instagram.
+Instagram: itsrkayra
