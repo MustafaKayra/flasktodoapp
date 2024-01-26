@@ -1,0 +1,1 @@
+"Hello! This is my first GitHub repository, so some things may be missing, I apologize for that. In this project, I created a ToDo app using Python-Flask on the back end and Bootstrap on the front end. Thanks!" 
